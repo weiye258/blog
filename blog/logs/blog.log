@@ -1,0 +1,29 @@
+INFO 2022-07-05 20:02:17,728 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-07-05 20:05:28,572 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-07-05 20:05:32,134 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2022-07-05 20:05:32,897 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2022-07-05 20:05:47,908 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2022-07-05 20:05:55,550 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-07-05 20:09:39,183 autoreload 203 C:\Users\admin\Desktop\blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-05 20:09:39,953 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-07-05 20:09:55,126 autoreload 203 C:\Users\admin\Desktop\blog\blog\blog\settings.py changed, reloading.
+INFO 2022-07-05 20:09:55,887 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-07-05 20:10:18,485 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-07-05 20:10:56,188 basehttp 154 "GET /static/index.html HTTP/1.1" 200 12002
+INFO 2022-07-05 20:10:56,210 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2022-07-05 20:10:56,212 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2022-07-05 20:10:56,212 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-07-05 20:10:56,212 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2022-07-05 20:10:56,213 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-07-05 20:10:56,216 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2022-07-05 20:10:56,216 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-07-05 20:10:56,227 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-07-05 20:10:56,230 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-07-05 20:10:56,233 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2022-07-05 20:10:56,235 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2022-07-05 20:10:56,237 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2022-07-05 20:11:12,278 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2022-07-05 20:11:12,299 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2022-07-05 20:11:12,309 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2022-07-05 20:11:12,310 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2022-07-05 20:11:12,310 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0

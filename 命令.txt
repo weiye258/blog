@@ -17,3 +17,7 @@ pip安装mysql驱动pymysql
 工程目录init导入
 import pymysql
 pymysql.install_as_MySQLdb()
+3、pip安装 django-redis
+配置redis
+4、配置日志
+5、配置静态资源
