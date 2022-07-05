@@ -1,0 +1,5 @@
+cd desktop
+cd blog
+activate v35
+django-admin startproject blog
+python manage.py runserver
