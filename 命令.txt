@@ -21,3 +21,10 @@ pymysql.install_as_MySQLdb()
 配置redis
 4、配置日志
 5、配置静态资源
+6、创建user模块
+python manage.py startapp users
+#注册子应用
+    'users.apps.UsersConfig',
+7、添加静态目录
+'DIRS': [os.path.join(BASE_DIR,'templates')],
+8、python manage.py makemigrations
