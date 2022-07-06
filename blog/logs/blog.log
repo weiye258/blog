@@ -237,3 +237,7 @@ WARNING 2022-07-06 20:50:31,805 basehttp 154 "GET /static/js/axios.min.map HTTP/
 INFO 2022-07-06 20:50:36,644 basehttp 154 "GET /imagecode/?uuid=d40eec39-c388-4c65-a763-d856cbeab88e HTTP/1.1" 200 3174
 INFO 2022-07-06 20:50:37,338 basehttp 154 "GET /imagecode/?uuid=933b0055-960e-404d-8579-a49881c48c34 HTTP/1.1" 200 3176
 INFO 2022-07-06 20:50:37,469 basehttp 154 "GET /imagecode/?uuid=589b6e17-cfd2-4fa3-85b8-3401701f98ed HTTP/1.1" 200 3158
+INFO 2022-07-06 21:50:06,652 autoreload 203 C:\Users\admin\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-07-06 21:50:07,513 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-07-06 21:56:24,685 autoreload 203 C:\Users\admin\Desktop\blog\blog\users\views.py changed, reloading.
+INFO 2022-07-06 21:56:25,594 autoreload 578 Watching for file changes with StatReloader
